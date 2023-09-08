@@ -1,6 +1,7 @@
 # SpringbootPracticeP-
 ## AUTHOR
 Janeffer Njeri
+
 ## Setting up Springboot Project
 
 Link: Spring initializr.com
@@ -14,3 +15,5 @@ Language(java)
 Project metadata
 
 Generate
+## Runnig the project
+Command:mvn springboot:run
